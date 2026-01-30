@@ -3,7 +3,7 @@
   "wake_word": "Cleo v2",
   "author": "craigtut",
   "website": "",
-  "model": "cleov2.tflite",
+  "model": "cleoa.tflite",
   "trained_languages": [
     "en"
   ],
